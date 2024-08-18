@@ -23,3 +23,7 @@ webpack.generated.js
 package-lock.json
 tmp
 *.xlsx
+.mvn
+./mvn/maven-wrapper.jar
+./mvn/maven-wrapper.properties
+./mvn/MavenWrapperDownloader.java
